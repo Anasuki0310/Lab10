@@ -16,7 +16,7 @@ int main (){
 	while(getline(source, textline)){
 	    dest << textline << endl;
 	    
-	    
+	  
 	}
 	
 	dest << "-------------------- HA!! ---------------------";
